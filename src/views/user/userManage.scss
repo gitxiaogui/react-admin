@@ -1,0 +1,24 @@
+.userManage{
+  .search{
+    display: flex;
+    .ant-input{
+      width:200px;
+      margin-right:20px;
+    }
+    .ant-btn {
+      margin-right:20px;
+    }
+  }
+  .content{
+    margin-top:20px;
+    .gutter-box{
+      display: flex;
+    }
+    .avatarImg{
+      height:50px;
+      width:50px;
+      border-radius: 50%;
+    }
+  }
+
+}
